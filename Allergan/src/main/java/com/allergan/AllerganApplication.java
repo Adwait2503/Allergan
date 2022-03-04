@@ -1,4 +1,4 @@
-package com.allergan.Allergan;
+package com.allergan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
